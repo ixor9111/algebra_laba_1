@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algebra_laba_1", "algebra_laba_1.csproj", "{9F9172C9-B128-4EB8-BB03-D0A6C0032B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9172C9-B128-4EB8-BB03-D0A6C0032B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9172C9-B128-4EB8-BB03-D0A6C0032B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9172C9-B128-4EB8-BB03-D0A6C0032B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9172C9-B128-4EB8-BB03-D0A6C0032B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF62958B-12B7-4174-806B-6C6D022E2E99}
+	EndGlobalSection
+EndGlobal
